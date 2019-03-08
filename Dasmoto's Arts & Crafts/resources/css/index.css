@@ -1,0 +1,76 @@
+/* Global Styles */
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family:Helvetica;
+}
+.container{
+  margin: 80px 20px 0px 20px;
+}
+/* Header img style */
+.header{
+  height:110px;
+  background-image: url("../images/pattern.jpeg");
+}
+.header h1{
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color:khaki;
+}
+/* Brush styles */
+.brushes{
+  margin-top:40px;
+}
+.brushes h2{
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color:mediumspringgreen;
+}
+.brushes img{
+  margin-top:20px;
+}
+.brushes h3,
+p{
+  margin-top:10px;
+}
+/* frame styles */
+.frames{
+  margin-top:40px;
+}
+.frames h2{
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color:lightcoral;
+}
+.frames img{
+  margin-top:20px;
+}
+.frames h3,
+p{
+  margin-top:10px;
+}
+/* paint styles */
+.paint{
+  margin-top:40px;
+}
+.paint h2{
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color:mediumspringgreen;
+}
+.paint img{
+  margin-top:20px;
+}
+.paint h3,
+p{
+  margin-top:10px;
+}
+.text-blue{
+  color:blue;
+  font-weight:bold;
+}
